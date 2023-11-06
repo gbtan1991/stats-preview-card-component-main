@@ -4,9 +4,11 @@ function App() {
   
 
   return (
-    <div className="h-screen w-screen bg-primaryVeryDarkBlue grid place-items-center">
+    <>
+    <div className="bg-primaryVeryDarkBlue h-screen">
       <Card />
     </div>
+    </>
   )
 }
 
