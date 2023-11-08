@@ -5,9 +5,11 @@ function App() {
 
   return (
     <>
-    <div className="bg-primaryVeryDarkBlue h-screen">
+    
+    <div >
       <Card />
     </div>
+  
     </>
   )
 }

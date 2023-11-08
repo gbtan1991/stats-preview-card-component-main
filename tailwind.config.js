@@ -13,7 +13,13 @@ export default {
         neutralWhite: 'hsl(0, 0%, 100%)',
         neutralTransparentWhiteMain: 'hsla(0, 0%, 100%, 0.75)',
         neutralTransparentWhiteStat: 'hsla(0, 0%, 100%, 0.6)'
+      },
+
+      fontFamily: {
+          'fontInter' : 'Inter',
+          'fontLexend' : 'Lexend Deca'
       }
+
     },
   },
   plugins: [],
